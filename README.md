@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro
 - 👀 I’m interested in new technologies.
-- 🌱 I’m currently learning JAVASCRIPT, REACT, HTML, CSS.
+- 🌱 I’m currently learning JavaScript, React, HTML, CSS.
 - 💞️ I'm looking to collaborate on all kinds of projects that can help society.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/pedro-barbosa-9150b7246/)
 
