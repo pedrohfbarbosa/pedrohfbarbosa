@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @pedrohfbarbosa
+- 👋 Hi, I’m Pedro
 - 👀 I’m interested in new technologies.
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT.
-- 💞️ I’m looking to collaborate on all sorts of projects that can have a positive impact in the world.
-- 📫 How to reach me https://www.linkedin.com/in/pedro-barbosa-9150b7246/
+- 🌱 I’m currently learning JAVASCRIPT, REACT, HTML, CSS.
+- 💞️ I'm looking to collaborate on all kinds of projects that can help society.
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/pedro-barbosa-9150b7246/)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?pedrohfbarbosa=vn7n24fzkq&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrohfbarbosa&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrohfbarbosa&theme=monokai)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrohfbarbosa&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrohfbarbosa&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedrohfbarbosa&theme=monokai&utcOffset=-3)
+
 
 <!---
 pedrohfbarbosa/pedrohfbarbosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
